@@ -23,12 +23,12 @@ Aparecida de Goiânia/GO
 * Programação Orientada à Objeto
 * Básico de [Nodejs](https://nodejs.org/en/)
 
-**FrontEnd:**
+**FrontEnd Básico:**
 * HTML5/CSS3 e Javascript
 * Pré-processador [Sass](http://sass-lang.com/)
 * [Bootstrap](http://getbootstrap.com/)
 * Automatizador [Gulp](http://gulpjs.com/)
-* Básico de [Angularjs](https://angularjs.org/)
+* [Angularjs](https://angularjs.org/)
 
 
 **Banco de Dados:**
