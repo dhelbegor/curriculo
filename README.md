@@ -15,6 +15,10 @@ São Paulo/SP
 
 ---
 
+## Resumo
+Desenvolvedor web com mais de 3 anos de experiência trabalhando principalmente com python/django.
+
+
 ## Competências
 
 **Back-end:**
